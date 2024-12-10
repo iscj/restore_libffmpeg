@@ -3,8 +3,8 @@ restaura codec de chromium-ffmpeg
 
 Solución al problema de Opera con los codecs para reproducir videos/gifs
 
-- Tener instalado chromium-ffmpeg
-	sudo snap install chromium-ffmpeg
+- Tener instalado chromium-ffmpeg:
+`sudo snap install chromium-ffmpeg`
 
 Urls sobre el error:
 - [h.264 activar para ver vídeos/gif, Linux.](https://forums.opera.com/topic/30044/h-264-activar-para-ver-vídeos-gif-linux/2)
